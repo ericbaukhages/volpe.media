@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "./scripts/dev.sh",
+    "build": "./scripts/build.sh"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
