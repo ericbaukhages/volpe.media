@@ -1,7 +1,8 @@
 {
   "scripts": {
     "dev": "./scripts/dev.sh",
-    "build": "./scripts/build.sh"
+    "build": "./scripts/build.sh",
+    "serve": "./scripts/serve.sh"
   },
   "dependencies": {
     "tailwindcss": "^1.8.10"
